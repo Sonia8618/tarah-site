@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 760" role="img" aria-labelledby="title desc">
+<title id="title">دختر انیمه‌ای با موهای بنفش</title><desc id="desc">تصویرسازی کارتونی یک دختر با موهای بنفش، چشم‌های بزرگ و پس‌زمینه بنفش تیره.</desc>
+<defs>
+ <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#32285a"/><stop offset="1" stop-color="#171a32"/></linearGradient>
+ <linearGradient id="hair" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#d2a7ff"/><stop offset=".45" stop-color="#8e62df"/><stop offset="1" stop-color="#4c3a91"/></linearGradient>
+ <linearGradient id="skin" x1="0" y1="0" x2=".8" y2="1"><stop stop-color="#ffe2d9"/><stop offset="1" stop-color="#e9aebc"/></linearGradient>
+ <linearGradient id="shirt" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#b6a4ff"/><stop offset="1" stop-color="#6853b7"/></linearGradient>
+ <radialGradient id="eye"><stop stop-color="#a8f2e3"/><stop offset=".65" stop-color="#4e9fbd"/><stop offset="1" stop-color="#26345e"/></radialGradient>
+ <pattern id="dots" width="30" height="30" patternUnits="userSpaceOnUse"><circle cx="3" cy="3" r="1.4" fill="#fff" opacity=".18"/></pattern>
+</defs>
+<rect width="600" height="760" fill="url(#bg)"/><rect width="600" height="760" fill="url(#dots)"/>
+<circle cx="455" cy="140" r="90" fill="#9b72ff" opacity=".12"/><circle cx="100" cy="540" r="130" fill="#76e6c0" opacity=".07"/>
+<path d="M80 760 Q95 595 205 554 L392 550 Q510 610 535 760Z" fill="#22233e"/>
+<!-- hair back -->
+<path d="M145 360 Q98 145 225 91 Q355 30 441 153 Q510 225 466 450 L445 585 L159 580 L128 454Z" fill="url(#hair)"/>
+<path d="M172 295 Q126 185 230 116 Q331 65 407 146 Q465 210 425 334 Q410 210 326 183 Q259 252 172 295Z" fill="#d4b3ff" opacity=".42"/>
+<!-- neck and shoulders -->
+<path d="M249 438 L246 516 Q297 555 350 514 L343 428Z" fill="url(#skin)"/>
+<path d="M175 592 Q205 518 254 505 L301 548 L351 504 Q423 523 452 610 L488 760 L112 760Z" fill="url(#shirt)"/>
+<path d="M251 511 L300 556 L350 510 L370 575 Q300 620 230 575Z" fill="#f4d7ff"/>
+<!-- ears -->
+<ellipse cx="174" cy="340" rx="27" ry="43" fill="url(#skin)"/><ellipse cx="426" cy="340" rx="27" ry="43" fill="url(#skin)"/>
+<!-- face -->
+<path d="M174 235 Q181 145 300 145 Q421 145 426 244 L408 373 Q387 450 300 464 Q213 450 192 373Z" fill="url(#skin)"/>
+<!-- face blush -->
+<ellipse cx="218" cy="375" rx="28" ry="13" fill="#ef8cae" opacity=".35"/><ellipse cx="382" cy="375" rx="28" ry="13" fill="#ef8cae" opacity=".35"/>
+<!-- hair cap and bangs -->
+<path d="M153 313 Q126 186 224 115 Q316 62 399 130 Q466 183 445 307 Q412 273 396 217 Q365 263 322 265 Q256 259 227 222 Q211 278 153 313Z" fill="url(#hair)"/>
+<path d="M181 217 Q234 112 313 124 Q356 130 386 169 Q330 154 294 194 Q256 232 208 246 Q190 265 166 290Z" fill="#e2c9ff" opacity=".65"/>
+<path d="M306 133 Q300 207 338 248 Q360 269 389 269 Q365 222 385 184 Q351 144 306 133Z" fill="#a37be9"/>
+<path d="M224 140 Q194 194 206 245 Q229 226 246 195Z" fill="#b88df5"/>
+<!-- eyebrows -->
+<path d="M210 300 Q240 279 270 300" fill="none" stroke="#674784" stroke-width="8" stroke-linecap="round"/><path d="M332 300 Q363 279 390 300" fill="none" stroke="#674784" stroke-width="8" stroke-linecap="round"/>
+<!-- eyes -->
+<path d="M205 330 Q238 293 275 330 Q245 368 205 330Z" fill="#fff8f5"/><path d="M326 330 Q363 293 395 330 Q360 368 326 330Z" fill="#fff8f5"/>
+<ellipse cx="242" cy="332" rx="18" ry="25" fill="url(#eye)"/><ellipse cx="360" cy="332" rx="18" ry="25" fill="url(#eye)"/>
+<ellipse cx="244" cy="333" rx="8" ry="16" fill="#171c36"/><ellipse cx="362" cy="333" rx="8" ry="16" fill="#171c36"/>
+<circle cx="249" cy="323" r="7" fill="white"/><circle cx="367" cy="323" r="7" fill="white"/><circle cx="235" cy="343" r="3" fill="#b7fff0"/><circle cx="353" cy="343" r="3" fill="#b7fff0"/>
+<path d="M204 329 Q237 290 276 328" fill="none" stroke="#49305f" stroke-width="7" stroke-linecap="round"/><path d="M325 328 Q361 290 396 329" fill="none" stroke="#49305f" stroke-width="7" stroke-linecap="round"/>
+<!-- nose and mouth -->
+<path d="M298 344 Q289 363 300 365" fill="none" stroke="#d58f9f" stroke-width="4" stroke-linecap="round"/>
+<path d="M278 393 Q300 410 323 391 Q306 425 286 401Z" fill="#c75f83"/><path d="M285 394 Q300 402 317 393" fill="none" stroke="#fff0f5" stroke-width="3" stroke-linecap="round"/>
+<!-- hair side strands -->
+<path d="M161 278 Q135 390 185 484 Q202 505 213 485 Q185 390 205 303Z" fill="#8a5ed6"/><path d="M425 276 Q455 390 410 484 Q394 503 384 481 Q414 390 392 302Z" fill="#6b4ab6"/>
+<!-- hair clips -->
+<path d="M379 205 l34 -14 l5 11 l-34 14Z" fill="#76e6c0"/><path d="M384 222 l34 -14 l4 9 l-34 14Z" fill="#f7c3df"/>
+<!-- earrings -->
+<circle cx="174" cy="383" r="7" fill="#76e6c0"/><path d="M174 390 l-8 17 l8 9 l8 -9Z" fill="#9b72ff"/><circle cx="426" cy="383" r="7" fill="#76e6c0"/>
+<!-- decorative stars -->
+<g fill="#bda5ff"><path d="M88 170 l7 18 18 7 -18 7 -7 18 -7 -18 -18 -7 18 -7Z"/><path d="M494 420 l5 13 13 5 -13 5 -5 13 -5 -13 -13 -5 13 -5Z"/></g>
+<g fill="#76e6c0"><path d="M475 100 l4 10 10 4 -10 4 -4 10 -4 -10 -10 -4 10 -4Z"/><circle cx="110" cy="420" r="4"/><circle cx="482" cy="520" r="3"/></g>
+<path d="M210 575 Q300 620 390 575" fill="none" stroke="#e4d9ff" stroke-width="4" opacity=".45"/>
+</svg>
